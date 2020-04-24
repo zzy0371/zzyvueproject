@@ -17,3 +17,8 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 参考原型
+```
+https://m.hua.com/?sid=pzbp&utm_source=baidu&utm_medium=pz&utm_term=pc-biaoti
+```
