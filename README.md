@@ -1,16 +1,16 @@
-# vue-demo
+# vue-demo项目
 
-## Project setup
+## 安装项目依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 在测试服务器上运行项目
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 发布项目
 ```
 yarn build
 ```
